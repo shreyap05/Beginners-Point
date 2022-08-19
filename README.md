@@ -14,17 +14,6 @@ We have made the User Interface very easy to use. Our website’s most notable f
 
 ![Logo](https://user-images.githubusercontent.com/87517376/183115998-0c2d8d41-2fd7-486a-bc5a-c91d65fcac38.png)
 
-Website is hosted through webhost hostinger and all the codes are provided here in my github account. Hope you all liked our project. 
-
-### Check it out in the link provided below :)
-
-
-##### https://beginnerspointuemk.000webhostapp.com/index.html
-
-<br/>
-
-![Screenshot (4)](https://user-images.githubusercontent.com/87517376/183115031-55455778-e349-46fc-8d5a-777e463dccb4.png)
-
 ## Tools used: 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

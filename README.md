@@ -1,6 +1,6 @@
 # Beginners Point🖥️📚
 
-Beginners Point is an e-Learning website . This model is the beginning of real free education for all levels which
+Beginners Point is an E-Learning website . This model is the beginning of real free education for all levels which
 provides free resources and an online compiler to practice programming languages.It’s a free to use, simple and fast platform to learn concepts in C Language (as of now) and the future modifications are to be done. 
 
 There are basic chapters of C Programming language, which will definitely help users to gain in depth knowledge, through high quality content, collected and provided by us in the website.
